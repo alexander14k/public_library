@@ -26,7 +26,7 @@ english, french, german, italian, spanish, portuguese, norwegian, danish, swedis
 
 ## 🔧 Build on your machine
 
-| ![Windows 10](doc/windows%20batch%20menu.PNG) | ![Linux Mint 21.3](doc/linux%20bash%20menu%20xfce4.png.png) |
+| ![Windows 10](doc/windows%20batch%20menu.PNG) | ![Linux Mint 21.3](doc/linux%20bash%20menu%20xfce4.png) |
 |:-------------------------:|:-------------------------:|
 | Using "batch menu.bat"                | Using "bash menu xfce4.sh"                |
 
