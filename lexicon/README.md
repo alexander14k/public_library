@@ -30,9 +30,16 @@ english, french, german, italian, spanish, portuguese, norwegian, danish, swedis
 |:-------------------------:|:-------------------------:|
 | Using "batch menu.bat"                | Using "bash menu xfce4.sh"                |
 
-# Tests
+## 🔧 Tests
 + ✅ x86_64 intel Linux Mint 21.3 (based on ubuntu22.04)
 + ✅ x86_64 intel Windows 10
+
+Binaries can be found in test folder.
+
+<figure>
+  <img src="doc/linux%20telnet.png" alt="Server test with telnet on linux">
+  <figcaption>Server test with telnet on linux</figcaption>
+</figure>
 
 ## 📚 Watchout for fonts and symbols
 
