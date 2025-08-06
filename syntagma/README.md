@@ -1,10 +1,10 @@
 # Syntagma is a manual
 
-wrote by alexander14k
+wrote by alexandre14k
 
-## TODO 🧙‍♀️🧙‍♂️📚✨✨
-
-```git
+## GIT 🧙‍♀️🧙‍♂️📚✨✨
++ prepare work
+```
 # prepare a new ssh key (done once)
 ssh-keygen -t ed25519 -C "your email here"
 
@@ -16,7 +16,9 @@ ssh-add ~/.ssh/id_...
 
 # download remote private repo and use private ssh login password
 git clone git@github.com:__some__user__/private_repo.git
-
+```
++ share work
+```
 # check your permissions to the remote repo
 git remote -v
 
