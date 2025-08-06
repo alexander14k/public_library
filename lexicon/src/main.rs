@@ -1,6 +1,6 @@
 //! # Filename: main.rs
 //!
-//! Author: alexander14k
+//! Author: alexandre14k
 //! Created: 2025-08-05
 //!
 //! License: MIT

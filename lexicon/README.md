@@ -1,6 +1,6 @@
 # Lexicon is a DICT client-server based on Rust
 
-wrote by alexander14k
+wrote by alexandre14k
 
 ## 🚀 Features
 

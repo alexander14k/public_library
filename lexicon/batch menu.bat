@@ -1,6 +1,6 @@
 @echo OFF
 
-REM wrote by alexander14k
+REM wrote by alexandre14k
 
 REM NB! install msys2 on your system
 REM     if install path is C:\msys64

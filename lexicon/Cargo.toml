@@ -2,7 +2,7 @@
 name = "lexicon"
 version = "1.0.0"
 edition = "2021"
-authors = ["alexander14k"]
+authors = ["alexandre14k"]
 
 [dependencies]
 # no other libs used

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# wrote by alexander14k
+# wrote by alexandre14k
 
 base_name=$(basename "$PWD")
 os=$(uname -s)

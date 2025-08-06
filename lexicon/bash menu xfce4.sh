@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# wrote by alexander14k
+# wrote by alexandre14k
 
 xfce4-terminal --command="bash -c './bash\ menu.sh;'"
 
